@@ -1,1 +1,2 @@
-###This is your theory 
+Fraunhofer Diffraction from a single-slit and a circular aperture
+Light behaves not only like a wave but also like a particle. One consequence of this wave nature is diffraction, where light bends slightly as it travels around the edges of an object. Fraunhofer diffraction, a specific type of diffraction, occurs when parallel light waves from a distant source pass through a small opening or diffracting object, and the resulting pattern is observed on a screen at a far distance. This distant observation is crucial for the characteristics of Fraunhofer diffraction.
