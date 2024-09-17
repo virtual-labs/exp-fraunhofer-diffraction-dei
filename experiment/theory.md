@@ -1,4 +1,4 @@
-Fraunhofer Diffraction from a single-slit and a circular aperture
+
 Light behaves not only like a wave but also like a particle. One consequence of this wave nature is diffraction, where light bends slightly as it travels around the edges of an object. Fraunhofer diffraction, a specific type of diffraction, occurs when parallel light waves from a distant source pass through a small opening or diffracting object, and the resulting pattern is observed on a screen at a far distance. This distant observation is crucial for the characteristics of Fraunhofer diffraction.
 
 In Fraunhofer diffraction the source and the screen are a infinite distance from the obstacle and the wavefront is plane. Let a parallel beam of monochromatic light of wavelength be incident normally upon a narrow-slit AB of width e where it gets diffraction in below fig. if a lens L is placed in the path of the diffraction beam, a real image of the diffraction pattern is formed on the screen MN in focal plane of the lens. BE= AB sin𝜃= e sin𝜃 <br />
@@ -21,14 +21,7 @@ Condition for a minimum:<br />
 3. α ... angle<br />
 4. k ... order of the minimum (1, 2, 3, ...)<br />
 5. λ ... wavelength<br />
-<div align="center">
-
 ![image3](images/image3.png)<br />
-Fig. 1
-</div>
-
-<div align="center">
-
+Fig. 1<br />
 ![image4](images/image4.jpg)<br />
 Fig.2 
-</div>
