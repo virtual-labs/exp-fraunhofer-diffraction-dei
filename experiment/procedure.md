@@ -8,21 +8,12 @@ Step5: Change wavelength and change the thickness to see the different pattern f
 Take 5-10 readings of each value from experiment and record them in table.<br />
 <table style="width:100%">
 <tr>
-<th style="width:0.5%" >Experiment no.</th>
+<th style="width:0.5%" >Serial no.</th>
 <th style="width:20%">Aperture Width/thickness(e or diameter)</th>
-<th style="width:20%">Angle of observation(θ)</th>	
+<th style="width:20%">Minima</th>	
 <th style="width:20%">Order(k)</th>
-<th style="width:20%">Intensity of Maxima/Minima</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -33,16 +24,13 @@ Take 5-10 readings of each value from experiment and record them in table.<br />
 <th></th>
 <th></th>
 <th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
 <th></th>
 </tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -53,17 +41,8 @@ Take 5-10 readings of each value from experiment and record them in table.<br />
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 </tr>
 </tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -74,11 +53,77 @@ Take 5-10 readings of each value from experiment and record them in table.<br />
 <th></th>
 <th></th>
 <th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
 <th></th>
 </tr>
 </tr>
 <th></th>
 <th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+<table style="width:100%">
+<tr>
+<th style="width:0.5%" >Serial no.</th>
+<th style="width:20%">Angle of observation(θ)</th>	
+<th style="width:20%">Relative Instensity</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tr>
 <th></th>
 <th></th>
 <th></th>
