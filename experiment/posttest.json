@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In a Fraunhofer diffraction experiment, what does the order (k) in the formulas refer to?",
+      "question": "1. In a Fraunhofer diffraction experiment, what does the order (k) in the formulas refer to?",
       "answers": {
         "a": "The number of diffracting objects used",
         "b": "The color of the light source",
@@ -10,25 +10,65 @@
         "d": "The location of a particular bright or dark fringe relative to the central maximum"
       },
       "explanations": {
-
-        "d": "Explanation 2 <a href='https://en.wikipedia.org/wiki/Fraunhofer_diffraction'>here</a>"
+        "d": "Correct. The order (k) refers to the position of bright/dark fringes. <a href='https://en.wikipedia.org/wiki/Fraunhofer_diffraction'>here</a>"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "A single slit diffracts white light. Which of the following colors will deviate the most from the straight-through direction?",
+      "question": "2. A single slit diffracts white light. Which of the following colors will deviate the most from the straight-through direction?",
       "answers": {
-        "a": "Red (Correct - Longer wavelengths diffract more)",
+        "a": "Red",
         "b": "Green",
         "c": "Blue",
         "d": "All colors will diffract the same amount"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='https://www.doubtnut.com/qna/31678260'>here</a>"
-
+        "c": "Correct. Blue has the shortest wavelength, so it diffracts the most. <a href='https://www.doubtnut.com/qna/31678260'>here</a>"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In Fraunhofer diffraction at a single slit, what is the condition for the first minimum?",
+      "answers": {
+        "a": "a·sinθ = λ",
+        "b": "a·cosθ = λ/2",
+        "c": "d·sinθ = mλ",
+        "d": "a·tanθ = λ"
+      },
+      "explanations": {
+        "a": "Correct. The condition for first minimum is a·sinθ = λ, where a is slit width and λ is wavelength."
       },
       "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "4. What happens to the central maximum when the slit width is reduced in single-slit Fraunhofer diffraction?",
+      "answers": {
+        "a": "It becomes narrower",
+        "b": "It becomes wider",
+        "c": "It disappears",
+        "d": "It remains unchanged"
+      },
+      "explanations": {
+        "b": "Correct. Reducing slit width increases diffraction, so the central maximum spreads wider."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In a diffraction grating experiment, what effect does increasing the number of slits have?",
+      "answers": {
+        "a": "The fringes become blurred",
+        "b": "The fringes become sharper and more intense",
+        "c": "The central maximum vanishes",
+        "d": "No diffraction occurs"
+      },
+      "explanations": {
+        "b": "Correct. More slits increase interference sharpness, producing brighter and sharper fringes."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

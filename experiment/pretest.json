@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the following best describes Fraunhofer diffraction?",
+      "question": "1. Which of the following best describes Fraunhofer diffraction?",
       "answers": {
         "a": "Light scattering from a rough surface",
         "b": "Bending of light as it travels past a sharp edge.",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In Fraunhofer diffraction, what is the key characteristic of the light source and observation screen?",
+      "question": "2. In Fraunhofer diffraction, what is the key characteristic of the light source and observation screen?",
       "answers": {
         "a": "They are located very close to the diffracting object",
         "b": "The light source is a point source, and the screen is placed at the focal point of a lens",
@@ -33,6 +33,57 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In Fraunhofer diffraction at a single slit, what determines the angular position of the first minimum?",
+      "answers": {
+        "a": "Slit width and wavelength of light",
+        "b": "Distance between the slit and the screen",
+        "c": "Intensity of the light source",
+        "d": "Refractive index of the medium"
+      },
+      "explanations": {
+        "a": "Correct. Condition for first minimum: a·sinθ = λ, where a is slit width.",
+        "b": "Incorrect. Distance affects size of pattern, not the angular position of minima.",
+        "c": "Incorrect. Intensity changes brightness, not position of minima.",
+        "d": "Incorrect. Medium affects wavelength, but in air it is negligible."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What happens to the central maximum in single-slit Fraunhofer diffraction when the slit width is reduced?",
+      "answers": {
+        "a": "The central maximum becomes narrower",
+        "b": "The central maximum becomes wider",
+        "c": "The central maximum disappears",
+        "d": "The central maximum remains unchanged"
+      },
+      "explanations": {
+        "a": "Incorrect. Narrower slit gives broader diffraction pattern.",
+        "b": "Correct. Narrower slit increases diffraction angle, making central maximum wider.",
+        "c": "Incorrect. Central maximum never disappears.",
+        "d": "Incorrect. Pattern changes with slit width."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In a diffraction grating experiment, what happens when the number of slits is increased?",
+      "answers": {
+        "a": "The fringes become blurred",
+        "b": "The fringes become sharper and more intense",
+        "c": "The central maximum vanishes",
+        "d": "No diffraction occurs"
+      },
+      "explanations": {
+        "a": "Incorrect. More slits do not blur the fringes.",
+        "b": "Correct. Increasing slits increases interference, making fringes sharp and bright.",
+        "c": "Incorrect. Central maximum is always present.",
+        "d": "Incorrect. Diffraction always occurs with slits."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
