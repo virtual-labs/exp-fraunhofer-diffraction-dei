@@ -129,8 +129,3 @@ Take 5-10 readings of each value from experiment and record them in table.<br />
 <th></th>
 </tr>
 </table>
-
-
-
-
-
