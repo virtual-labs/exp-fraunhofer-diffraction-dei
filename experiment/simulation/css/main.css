@@ -47,12 +47,15 @@
 }
 
 /* Theme Transition */
-body, button, input, select, div, h1, h2, h3, p, span, canvas {
-  transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, box-shadow 0.5s ease;
+/* Universal transition for smooth theme switching */
+*, *::before, *::after {
+  transition-property: background-color, border-color, color, fill, stroke, box-shadow;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
 }
 
 .theme-transition {
-  animation: pulse 0.5s ease;
+  animation: pulse 0.3s ease;
 }
 
 @keyframes pulse {
@@ -490,5 +493,132 @@ textarea {
 
 
 /* Add the following styles at the end of your existing CSS */
+
+/* Dynamic Content Switching for Aperture Types */
+.content-single-slit,
+.content-circular {
+  display: none;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.content-single-slit.content-show,
+.content-circular.content-show {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+  animation: fadeInUp 0.4s ease forwards;
+}
+
+/* Aperture Type Indicator Badge */
+.aperture-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.aperture-badge.single-slit {
+  background: linear-gradient(135deg, #0ea5e9, #6366f1);
+  color: #ffffff;
+}
+
+.aperture-badge.circular {
+  background: linear-gradient(135deg, #a855f7, #ec4899);
+  color: #ffffff;
+}
+
+/* Theme-Aware Text Colors */
+:root {
+  --text-primary: #f3f4f6;
+  --text-secondary: #d1d5db;
+  --text-tertiary: #9ca3af;
+}
+
+.light {
+  --text-primary: #111827;
+  --text-secondary: #374151;
+  --text-tertiary: #4b5563;
+}
+
+/* Force overrides for better visibility in themed container */
+.themed .text-gray-300 {
+  color: var(--text-secondary) !important;
+}
+
+.themed .text-gray-400 {
+  color: var(--text-tertiary) !important;
+}
+
+.themed .text-white {
+  color: var(--text-primary) !important;
+}
+
+/* Specific component overrides for Light Theme */
+.light .themed .bg-gray-800, 
+.light .themed .bg-gray-900,
+.light .themed .bg-gray-700 {
+  background-color: #f3f4f6 !important; /* Light gray background */
+  border-color: #d1d5db !important;
+  color: var(--text-primary) !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.light .themed .bg-gray-700:hover {
+  background-color: #e5e7eb !important;
+}
+
+/* Fix for dark backgrounds inside cards in light mode */
+.light .themed .bg-gray-900 {
+  background-color: #e5e7eb !important; /* Slightly darker for contrast areas */
+}
+
+/* Ensure headings are visible */
+.light h2.text-purple-400,
+.light h3.text-cyan-300,
+.light h3.text-purple-300 {
+  filter: brightness(0.8); /* Darken light colors for white background */
+}
+
+/* Values inside mathematical expressions */
+.light .text-yellow-400 {
+  color: #d97706 !important; /* Darker yellow/amber */
+}
+
+.light .text-cyan-400 {
+  color: #0891b2 !important; /* Darker cyan */
+}
+
+.light .text-purple-400 {
+  color: #7c3aed !important; /* Darker purple */
+}
+
+.light .text-blue-500 {
+  color: #2563eb !important;
+}
+
+
+/* Gradient backgrounds for light theme - Fix for Minima/Maxima cards */
+.light .themed .bg-gradient-to-r {
+  background: linear-gradient(to right, #f3f4f6, #e5e7eb) !important;
+  border: 1px solid #d1d5db !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Ensure text inside gradient cards is visible in light mode */
+.light .themed .bg-gradient-to-r p {
+  color: var(--text-secondary) !important;
+}
+
+.light .themed .bg-gradient-to-r h3 {
+  /* Ensure headings in these cards are visible */
+  filter: brightness(0.7) contrast(1.2) !important;
+}
 
 /* You CSS goes in here */
