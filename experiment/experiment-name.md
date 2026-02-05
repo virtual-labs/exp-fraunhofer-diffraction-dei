@@ -1,2 +1,1 @@
-## Fraunhofer diffraction using single-slit and
-circular apertures
+## Fraunhofer diffraction using single-slit and circular apertures
