@@ -1,5 +1,3 @@
-## Procedure
-
 **Step 1:** Set the value of the wavelength (λ), angle (θ), and width of the slit (d) using the controls provided in the simulation.
 
 **Step 2:** Click on either **Diffraction Pattern** or **Intensity Profile** to choose the display mode.

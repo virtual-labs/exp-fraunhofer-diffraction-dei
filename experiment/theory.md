@@ -1,5 +1,3 @@
-## Theory
-
 Light exhibits both wave-like and particle-like properties. One important consequence of its wave nature is **diffraction** — a phenomenon in which light bends slightly and spreads when it passes around the edges of an object or through a small aperture.
 
 In **Fraunhofer diffraction**, both the source and the screen are at an infinite distance from the obstacle. As a result, the incident wavefront is plane. Fraunhofer diffraction is a specific type of diffraction that occurs when parallel light waves — usually from a very distant source — pass through a narrow slit or diffracting object. The resulting pattern is observed on a screen at a far distance from the aperture, or at the focal plane of a converging lens. This far-field condition is crucial for a well-defined and stable diffraction pattern.
