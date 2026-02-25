@@ -85,6 +85,91 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6. Fraunhofer diffraction is also known as which type of diffraction?",
+      "answers": {
+        "a": "Near-field diffraction",
+        "b": "Far-field diffraction",
+        "c": "Contact diffraction",
+        "d": "Circular diffraction"
+      },
+      "explanations": {
+        "a": "Incorrect. Near-field diffraction is Fresnel diffraction.",
+        "b": "Correct. Fraunhofer diffraction is called far-field diffraction because both source and screen are effectively at infinity.",
+        "c": "Incorrect. No such standard type exists.",
+        "d": "Incorrect. This is not a standard classification."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. What is the condition for the second minimum in single-slit Fraunhofer diffraction?",
+      "answers": {
+        "a": "d sin\u03b8 = \u03bb/2",
+        "b": "d sin\u03b8 = 2\u03bb",
+        "c": "d sin\u03b8 = 3\u03bb/2",
+        "d": "d sin\u03b8 = 3\u03bb"
+      },
+      "explanations": {
+        "a": "Incorrect. This is not the condition for the second minimum.",
+        "b": "Correct. General condition for minima is d sin\u03b8 = k\u03bb; for k = 2, d sin\u03b8 = 2\u03bb.",
+        "c": "Incorrect. This corresponds to a secondary maximum, not a minimum.",
+        "d": "Incorrect. This corresponds to the third minimum."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. The diffraction pattern produced by a circular aperture is called:",
+      "answers": {
+        "a": "Newton's rings",
+        "b": "Interference fringes",
+        "c": "Airy pattern",
+        "d": "Fresnel fringes"
+      },
+      "explanations": {
+        "a": "Incorrect. Newton's rings result from thin-film interference.",
+        "b": "Incorrect. Interference fringes arise from two-source interference.",
+        "c": "Correct. The diffraction pattern of a circular aperture is called the Airy pattern, consisting of a bright central disk (Airy disk) surrounded by concentric rings.",
+        "d": "Incorrect. Fresnel fringes arise in near-field (Fresnel) diffraction."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which formula correctly represents the intensity distribution in single-slit Fraunhofer diffraction?",
+      "answers": {
+        "a": "I = I\u2080 cos\u00b2(\u03b1), where \u03b1 = \u03c0d sin\u03b8 / \u03bb",
+        "b": "I = I\u2080 (sin\u03b1 / \u03b1)\u00b2, where \u03b1 = \u03c0d sin\u03b8 / \u03bb",
+        "c": "I = I\u2080 sin\u00b2(2\u03b1), where \u03b1 = \u03c0d sin\u03b8 / \u03bb",
+        "d": "I = I\u2080 / \u03b1\u00b2"
+      },
+      "explanations": {
+        "a": "Incorrect. The cosine squared formula applies to two-slit interference.",
+        "b": "Correct. The intensity in single-slit Fraunhofer diffraction follows I = I\u2080(sin\u03b1/\u03b1)\u00b2, the sinc-squared function.",
+        "c": "Incorrect. This is not the standard diffraction intensity formula.",
+        "d": "Incorrect. This would give infinite intensity at \u03b1 = 0, which is not physical."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "10. A slit of width d = 0.20 mm is illuminated by light of wavelength 500 nm. The angular position of the first minimum is approximately:",
+      "answers": {
+        "a": "0.143\u00b0",
+        "b": "0.286\u00b0",
+        "c": "0.572\u00b0",
+        "d": "0.072\u00b0"
+      },
+      "explanations": {
+        "a": "Correct. sin\u03b8 = \u03bb/d = 500\u00d710\u207b\u2079 / 0.20\u00d710\u207b\u00b3 = 0.0025, so \u03b8 = arcsin(0.0025) \u2248 0.143\u00b0.",
+        "b": "Incorrect. This corresponds to the second minimum (k = 2).",
+        "c": "Incorrect. This over-estimates the angle.",
+        "d": "Incorrect. This is too small; check the formula d sin\u03b8 = k\u03bb."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     }
   ]
 }
