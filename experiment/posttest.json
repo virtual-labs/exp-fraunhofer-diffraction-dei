@@ -70,6 +70,91 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6. If the wavelength of light is doubled while the slit width remains constant, what happens to the angular width of the central maximum?",
+      "answers": {
+        "a": "It is halved",
+        "b": "It remains unchanged",
+        "c": "It is doubled",
+        "d": "It increases four times"
+      },
+      "explanations": {
+        "a": "Incorrect. The angular width is directly proportional to wavelength.",
+        "b": "Incorrect. Angular width depends on wavelength.",
+        "c": "Correct. The half-angular width is \u03b8 \u2248 \u03bb/d. If \u03bb doubles, the angular width doubles.",
+        "d": "Incorrect. The relationship is linear, not quadratic."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "7. In the intensity distribution formula I = I\u2080(sin\u03b1/\u03b1)\u00b2, the parameter \u03b1 is equal to:",
+      "answers": {
+        "a": "\u03c0d sin\u03b8 / \u03bb",
+        "b": "2\u03c0d sin\u03b8 / \u03bb",
+        "c": "d sin\u03b8 / \u03bb",
+        "d": "\u03c0d cos\u03b8 / \u03bb"
+      },
+      "explanations": {
+        "a": "Correct. \u03b1 = \u03c0d sin\u03b8 / \u03bb. At minima, \u03b1 = k\u03c0 (integer multiples of \u03c0), giving zero intensity.",
+        "b": "Incorrect. A factor of 2 would shift the minima positions.",
+        "c": "Incorrect. The \u03c0 factor is essential to match the physical positions of minima.",
+        "d": "Incorrect. It uses sin\u03b8, not cos\u03b8."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "8. At the first minimum of single-slit Fraunhofer diffraction, the path difference between waves from the two edges of the slit is:",
+      "answers": {
+        "a": "\u03bb/2",
+        "b": "\u03bb",
+        "c": "2\u03bb",
+        "d": "3\u03bb/2"
+      },
+      "explanations": {
+        "a": "Incorrect. \u03bb/2 path difference gives constructive interference in two-slit setup.",
+        "b": "Correct. The condition for the first minimum is d sin\u03b8 = \u03bb, meaning the path difference between rays from opposite edges is exactly one wavelength.",
+        "c": "Incorrect. 2\u03bb corresponds to the second minimum.",
+        "d": "Incorrect. 3\u03bb/2 corresponds to a secondary maximum."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "9. The half-angular width of the central maximum in single-slit Fraunhofer diffraction is given by:",
+      "answers": {
+        "a": "\u03b8 = arcsin(2\u03bb/d)",
+        "b": "\u03b8 = arcsin(\u03bb/d)",
+        "c": "\u03b8 = arcsin(\u03bb/2d)",
+        "d": "\u03b8 = arcsin(3\u03bb/2d)"
+      },
+      "explanations": {
+        "a": "Incorrect. arcsin(2\u03bb/d) gives the angular position of the second minimum.",
+        "b": "Correct. The first minimum occurs at d sin\u03b8 = \u03bb, so \u03b8 = arcsin(\u03bb/d) defines the half-angular width of the central maximum.",
+        "c": "Incorrect. This would give a narrower central maximum than actually observed.",
+        "d": "Incorrect. 3\u03bb/2d corresponds to the first secondary maximum."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "10. A slit of width d = 0.10 mm is illuminated by light of wavelength 500 nm. What is the angular position of the first minimum?",
+      "answers": {
+        "a": "0.143\u00b0",
+        "b": "0.286\u00b0",
+        "c": "0.572\u00b0",
+        "d": "0.072\u00b0"
+      },
+      "explanations": {
+        "a": "Incorrect. This corresponds to d = 0.20 mm with \u03bb = 500 nm.",
+        "b": "Correct. sin\u03b8 = \u03bb/d = 500\u00d710\u207b\u2079 / 0.10\u00d710\u207b\u00b3 = 0.005, so \u03b8 = arcsin(0.005) \u2248 0.286\u00b0.",
+        "c": "Incorrect. This over-estimates the angle by a factor of 2.",
+        "d": "Incorrect. This value is too small."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
