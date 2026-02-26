@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physics
 :--|:--|
 <b> Lab | <b> Waves, Optics and Quantum Mechanics
-<b> Experiment|     <b> Wave nature of light with Young’s double-slit experiment 
+<b> Experiment|     <b> Measurement of wavelength of a laser (He-Ne) light using single-slit diffraction
 
 ### About the Experiment 
 
