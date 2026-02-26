@@ -1,24 +1,29 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physics
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Waves, Optics and Quantum Mechanics
+<b> Experiment|     <b> Measurement of wavelength of a laser (He-Ne) light using single-slit diffraction
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+  This experiment studies the far-field diffraction patterns produced when coherent light passes through a single slit and a circular aperture, demonstrating how aperture shape affects light spreading.
+  
+<b>Name of Developer | <b> Professor Sukhdev Roy 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Dayalbagh Educational Institute(D.E.I.)
+<b> Email id|     <b>  sukhdevroy@dei.ac.in
+<b> Department |  Physics & Computer Science
 
 ### Contributors List
 
+
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+
+SrNo | Name | Faculty or Student | Department| Institute | Email id
+:--|:--|:--|:--|:--|:--|
+1 | Deepak kumar | Student | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | deepakkumar2103133@dei.ac.in
+2 | Nripesh Dixit | Research Scholar | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | nripeshdixit@dei.ac.in
+3 | Km. Jyoti Singh | Research Scholar | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | Jyotisingh1@dei.ac.in
