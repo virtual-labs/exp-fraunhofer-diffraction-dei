@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-The experiment is designed to verify the wavelength of the given monochromatic light source.
+This experiment studies the far-field diffraction patterns produced when coherent light passes through a single slit and a circular aperture, demonstrating how aperture shape affects light spreading.
 
 <b>Name of Developer | <b> Professor Sukhdev Roy 
 :--|:--|
