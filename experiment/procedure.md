@@ -24,7 +24,7 @@
 
 ### Table 1: Slit Width vs. Order of Minima
 
-**Fixed:** Wavelength λ = 632.8 nm (He-Ne Laser)<br/>
+**Fixed:** Wavelength λ = 633 nm (He-Ne Laser)<br/>
 **Formula:** d sinθ = kλ &nbsp;⟹&nbsp; θ = arcsin(kλ / d)
 
 <table style="width:100%; border-collapse:collapse; text-align:center;">
