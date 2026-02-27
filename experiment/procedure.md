@@ -24,14 +24,14 @@
 
 ### Table 1: Slit Width vs. Order of Minima
 
-**Fixed:** Wavelength λ = 633 nm (He-Ne Laser)<br/>
+**Fixed:** Wavelength λ = 600 nm<br/>
 **Formula:** d sinθ = kλ &nbsp;⟹&nbsp; θ = arcsin(kλ / d)
 
 <table style="width:100%; border-collapse:collapse; text-align:center;">
   <thead>
     <tr style="background-color:#dce6f1;">
       <th style="border:1px solid #aaa; padding:6px;">S.No.</th>
-      <th style="border:1px solid #aaa; padding:6px;">Slit Width <em>d</em> (mm)</th>
+      <th style="border:1px solid #aaa; padding:6px;">Slit Width <em>d</em> (nm)</th>
       <th style="border:1px solid #aaa; padding:6px;">Order <em>k</em></th>
       <th style="border:1px solid #aaa; padding:6px;">sin&thinsp;&theta;&nbsp;=&nbsp;k&lambda;/d</th>
       <th style="border:1px solid #aaa; padding:6px;">Angle of Minimum &theta; (degrees)</th>
@@ -41,83 +41,83 @@
   <tbody>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">1</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.10</td>
+      <td style="border:1px solid #aaa; padding:6px;">1000</td>
       <td style="border:1px solid #aaa; padding:6px;">1</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.006328</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.362</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.600000</td>
+      <td style="border:1px solid #aaa; padding:6px;">36.870</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.10</td>
-      <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.012656</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.725</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">1500</td>
+      <td style="border:1px solid #aaa; padding:6px;">1</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.400000</td>
+      <td style="border:1px solid #aaa; padding:6px;">23.578</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">3</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.20</td>
-      <td style="border:1px solid #aaa; padding:6px;">1</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.003164</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.181</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">1500</td>
+      <td style="border:1px solid #aaa; padding:6px;">2</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.800000</td>
+      <td style="border:1px solid #aaa; padding:6px;">53.130</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">4</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.20</td>
-      <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.006328</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.362</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">2000</td>
+      <td style="border:1px solid #aaa; padding:6px;">1</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.300000</td>
+      <td style="border:1px solid #aaa; padding:6px;">17.458</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">5</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.30</td>
-      <td style="border:1px solid #aaa; padding:6px;">1</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.002109</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.121</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">2000</td>
+      <td style="border:1px solid #aaa; padding:6px;">2</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.600000</td>
+      <td style="border:1px solid #aaa; padding:6px;">36.870</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">6</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.30</td>
-      <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.004219</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.242</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">3000</td>
+      <td style="border:1px solid #aaa; padding:6px;">1</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.200000</td>
+      <td style="border:1px solid #aaa; padding:6px;">11.537</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">7</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.40</td>
-      <td style="border:1px solid #aaa; padding:6px;">1</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.001582</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.091</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">3000</td>
+      <td style="border:1px solid #aaa; padding:6px;">2</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.400000</td>
+      <td style="border:1px solid #aaa; padding:6px;">23.578</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">8</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.40</td>
-      <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.003164</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.181</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">4000</td>
+      <td style="border:1px solid #aaa; padding:6px;">1</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.150000</td>
+      <td style="border:1px solid #aaa; padding:6px;">8.627</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">9</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.50</td>
-      <td style="border:1px solid #aaa; padding:6px;">1</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.001266</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.073</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">4000</td>
+      <td style="border:1px solid #aaa; padding:6px;">2</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.300000</td>
+      <td style="border:1px solid #aaa; padding:6px;">17.458</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">10</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.50</td>
-      <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.002531</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.145</td>
-      <td style="border:1px solid #aaa; padding:6px;">632.8</td>
+      <td style="border:1px solid #aaa; padding:6px;">5000</td>
+      <td style="border:1px solid #aaa; padding:6px;">1</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.120000</td>
+      <td style="border:1px solid #aaa; padding:6px;">6.892</td>
+      <td style="border:1px solid #aaa; padding:6px;">600.0</td>
     </tr>
   </tbody>
 </table>
@@ -126,7 +126,7 @@
 
 ### Table 2: Angle of Observation vs. Relative Intensity
 
-**Fixed:** Slit width d = 0.10 mm, Wavelength λ = 632.8 nm<br/>
+**Fixed:** Slit width d = 1000 nm, Wavelength λ = 600 nm<br/>
 **Formula:** I/I₀ = (sinα / α)², where α = πd sinθ / λ
 
 <table style="width:100%; border-collapse:collapse; text-align:center;">
@@ -149,66 +149,66 @@
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">2</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.10</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.867</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.775</td>
+      <td style="border:1px solid #aaa; padding:6px;">5.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.456</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.934</td>
       <td style="border:1px solid #aaa; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">3</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.18</td>
-      <td style="border:1px solid #aaa; padding:6px;">1.560</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.411</td>
+      <td style="border:1px solid #aaa; padding:6px;">10.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.909</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.754</td>
       <td style="border:1px solid #aaa; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">4</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.25</td>
-      <td style="border:1px solid #aaa; padding:6px;">2.167</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.143</td>
+      <td style="border:1px solid #aaa; padding:6px;">15.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">1.356</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.520</td>
       <td style="border:1px solid #aaa; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">5</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.30</td>
-      <td style="border:1px solid #aaa; padding:6px;">2.599</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.033</td>
+      <td style="border:1px solid #aaa; padding:6px;">20.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">1.792</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.297</td>
       <td style="border:1px solid #aaa; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #aaa; padding:6px;">6</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.36</td>
+      <td style="border:1px solid #aaa; padding:6px;">25.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">2.213</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.131</td>
+      <td style="border:1px solid #aaa; padding:6px;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #aaa; padding:6px;">7</td>
+      <td style="border:1px solid #aaa; padding:6px;">30.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">2.618</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.037</td>
+      <td style="border:1px solid #aaa; padding:6px;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #aaa; padding:6px;">8</td>
+      <td style="border:1px solid #aaa; padding:6px;">35.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">3.002</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.002</td>
+      <td style="border:1px solid #aaa; padding:6px;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #aaa; padding:6px;">9</td>
+      <td style="border:1px solid #aaa; padding:6px;">36.87</td>
       <td style="border:1px solid #aaa; padding:6px;">3.142</td>
       <td style="border:1px solid #aaa; padding:6px;">0.000</td>
       <td style="border:1px solid #aaa; padding:6px;">1st minimum (k = 1)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #aaa; padding:6px;">7</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.52</td>
-      <td style="border:1px solid #aaa; padding:6px;">4.504</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.047</td>
-      <td style="border:1px solid #aaa; padding:6px;">1st secondary maximum</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #aaa; padding:6px;">8</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.65</td>
-      <td style="border:1px solid #aaa; padding:6px;">5.631</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.012</td>
-      <td style="border:1px solid #aaa; padding:6px;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #aaa; padding:6px;">9</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.73</td>
-      <td style="border:1px solid #aaa; padding:6px;">6.283</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.000</td>
-      <td style="border:1px solid #aaa; padding:6px;">2nd minimum (k = 2)</td>
-    </tr>
-    <tr>
       <td style="border:1px solid #aaa; padding:6px;">10</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.89</td>
-      <td style="border:1px solid #aaa; padding:6px;">7.715</td>
-      <td style="border:1px solid #aaa; padding:6px;">0.016</td>
-      <td style="border:1px solid #aaa; padding:6px;">2nd secondary maximum</td>
+      <td style="border:1px solid #aaa; padding:6px;">40.00</td>
+      <td style="border:1px solid #aaa; padding:6px;">3.366</td>
+      <td style="border:1px solid #aaa; padding:6px;">0.004</td>
+      <td style="border:1px solid #aaa; padding:6px;"></td>
     </tr>
   </tbody>
 </table>
