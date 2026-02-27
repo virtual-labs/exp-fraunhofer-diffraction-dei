@@ -5,7 +5,7 @@ In **Fraunhofer diffraction**, both the source and the screen are at an infinite
 Let a parallel beam of monochromatic light of wavelength λ be incident normally upon a narrow slit **AB** of width d. After passing through the slit, the light gets diffracted and spreads out as shown in Fig. 1. If a converging lens **L** is placed in the path of the diffracted beam, a real image of the diffraction pattern is formed on the screen **SS′** at its focal plane.
 
 <div style="text-align:center;">
-  <img src="images/theory_fig1.png" alt="Fraunhofer Diffraction through a Single Slit" width="70%"><br/>
+  <img src="images/theory_fig1.png" alt="Fraunhofer Diffraction through a Single Slit" width="40%"><br/>
   <p style="text-align:center;"><strong>Fig. 1</strong> — Fraunhofer Diffraction through a Single Slit</p>
 </div>
 
