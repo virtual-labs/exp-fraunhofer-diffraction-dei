@@ -1,0 +1,10 @@
+
+/home/runner/work/exp-fraunhofer-diffraction-dei/exp-fraunhofer-diffraction-dei/experiment/simulation/js/main.js
+   18:5   warning  'colorIntensityMax' is assigned a value but never used  no-unused-vars
+   19:5   warning  'colorIntensityMid' is assigned a value but never used  no-unused-vars
+   20:5   warning  'colorIntensityLow' is assigned a value but never used  no-unused-vars
+  919:15  warning  'filename' is defined but never used                    no-unused-vars
+  987:10  warning  'endPage' is defined but never used                     no-unused-vars
+
+✖ 5 problems (0 errors, 5 warnings)
+

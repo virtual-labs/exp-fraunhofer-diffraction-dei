@@ -1,0 +1,1 @@
+To study Fraunhofer diffraction from a single slit and a circular aperture.
