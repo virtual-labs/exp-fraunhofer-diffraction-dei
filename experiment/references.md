@@ -16,8 +16,8 @@
 5. Saleh, B. E. A., & Teich, M. C. (2019). *Fundamentals of Photonics* (3rd ed.). Wiley.  
    (Chapter 3: Diffraction envelopes and circular resolving limits.)
 
-6. Ghatak, A. (2025). *Optics* (8th ed.). McGraw Hill Education India.  
-   ISBN: 9789355328595. Published: August 28, 2024.
+6. Ghatak, A. (2024). *Optics* (8th ed.). McGraw Hill Education India.  
+   (Chapter 17: Fraunhofer diffraction I)
 
 ---
 

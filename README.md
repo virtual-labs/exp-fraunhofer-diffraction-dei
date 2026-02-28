@@ -17,6 +17,7 @@
 <b> Department |  Physics & Computer Science
 
 ### Contributors List
+| 3 |  | saniav2711@gmail.com | Dayalbagh Educational Institute | Mechanical Engineering |
 
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
@@ -26,4 +27,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Deepak kumar | Student | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | deepakkumar2103133@dei.ac.in
 2 | Nripesh Dixit | Research Scholar | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | nripeshdixit@dei.ac.in
-3 | Km. Jyoti Singh | Research Scholar | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | Jyotisingh1@dei.ac.in
+3 | Km. Jyoti Singh | Research Scholar | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | jyotisingh1@dei.ac.in
+4 | Sania Verma | Student | Mechanical Engineering | Dayalbagh Educational Institute(D.E.I.) | saniav2711@gmail.com
